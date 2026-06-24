@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+
+# Datos crudos (no versionados)
+data/
+
+# Outputs intermedios (solo se versionan los entregables finales)
+output/*
+!output/pandemic_education_infographic.png
+!output/pandemic_education_analisis.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
