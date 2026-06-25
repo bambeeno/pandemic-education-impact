@@ -61,3 +61,57 @@ En la primera ejecución de `02_serie_temporal.py`, 18 países quedaron sin regi
 | Montserrat | MSR | Latin America & Caribbean | Territorio dependiente de UK |
 
 **Decisión:** todos incluidos en sus regiones correspondientes. Ninguno se excluye del análisis.
+
+---
+
+## Análisis contextual del event study — Variaciones 2020-2023
+
+Analizar las variaciones del gasto educativo como porcentaje del PBI durante el período 2020-2023 requiere separar lo que fue un espejismo estadístico de lo que fueron decisiones políticas y realidades económicas crudas.
+
+---
+
+### Casos extremos de caída
+
+**Timor-Leste (-3.65 pp / -52%) — El colapso del fondo soberano y la ayuda externa**
+
+La economía de Timor-Leste depende casi en su totalidad del Fondo del Petróleo (que financia hasta el 90% del presupuesto estatal) y de la ayuda internacional. En 2020, el precio del petróleo se desplomó y los mercados globales colapsaron, congelando los rendimientos de su fondo. El país arrastraba además fuerte inestabilidad política interna (impases presupuestarios entre el presidente y el parlamento). Cuando llegó el COVID-19, el gobierno priorizó subsidios de emergencia en efectivo para mitigar la pobreza extrema y la seguridad alimentaria, dejando la educación en un segundo plano. Al cerrarse las fronteras, la asistencia técnica y los fondos de agencias internacionales de desarrollo que cofinanciaban proyectos educativos se detuvieron en seco.
+
+**Aruba (-27%) y Suriname (-23%) — El colapso del turismo y crisis de deuda**
+
+Aruba es una de las economías más dependientes del turismo en el mundo. En 2020, su PBI cayó más del 25%. Sin ingresos fiscales, el gobierno tuvo que aplicar recortes nominales en el sector público —incluyendo maestros— como condición para recibir ayuda financiera de los Países Bajos. Suriname ya arrastraba una crisis económica severa antes de 2020, con deuda insostenible y devaluación masiva de su moneda. La pandemia terminó de asfixiar sus finanzas, obligando a un programa de austeridad extrema con el FMI que pulverizó el gasto social y educativo en términos reales.
+
+---
+
+### Casos extremos de aumento — Efecto denominador y flujos externos
+
+**Macao SAR (+2.83 pp / +96.71%) — El espejismo del PBI casi cero**
+
+Macao vive del turismo de casinos proveniente de China continental. Bajo la política de Zero-COVID de China, Macao cerró por completo y su PBI sufrió una contracción histórica de más del 50% en 2020. Sin embargo, el gobierno tiene gigantescas reservas fiscales acumuladas de años de bonanza y decidió mantener el gasto nominal en escuelas y salarios docentes usando esas reservas. Al dividirse un gasto educativo estable entre un PBI que se redujo a la mitad, el porcentaje se duplicó automáticamente. No fue una reforma educativa — fue matemática pura.
+
+**Marshall Islands y Kiribati — Microestados dependientes de subsidios externos**
+
+Estos países operan bajo el Tratado de Libre Asociación con EE. UU. (Marshall Islands) o reciben inyecciones masivas de ayuda de Australia, Taiwán y el Banco Asiático de Desarrollo. Durante la pandemia, los donantes enviaron fondos de emergencia empaquetados como apoyo presupuestario general. Dado que sus PBI locales son minúsculos y se contrajeron, la entrada masiva de dinero externo infló artificialmente el gasto público en todos los sectores, incluyendo educación.
+
+**Sierra Leona y Cabo Verde — Apuestas genuinas de desarrollo**
+
+En Sierra Leona el aumento es real y político. En 2018 el presidente Julius Maada Bio lanzó el programa Free Quality School Education (FQSE), comprometiéndose a destinar el 20% del presupuesto nacional a educación. Durante la pandemia el gobierno mantuvo ese compromiso a pesar de la crisis, lo que se tradujo en un incremento genuino de la inversión.
+
+---
+
+### Panorama regional — La brecha de la recuperación
+
+**LATAM (-0.31 pp en recovery) — Austeridad forzada**
+
+América Latina fue la región en desarrollo más golpeada económicamente por la pandemia y la que peor gestionó la post-pandemia en términos fiscales. Al llegar 2022, los países enfrentaban niveles de deuda altísimos acumulados por los bonos de emergencia de 2020, sumado a inflación global histórica. La respuesta generalizada de los ministerios de hacienda fue el ajuste fiscal para calmar a los mercados internacionales y frenar la inflación. Las escuelas en LATAM pasaron, en promedio, más tiempo cerradas que en cualquier otra región del mundo. Al reabrir, en lugar de una fuerte inversión para recuperar el rezago, la educación absorbió el costo de la consolidación fiscal.
+
+**Europe (-0.20 pp en recovery) — El regreso de las reglas fiscales y la crisis energética**
+
+En 2020-2021, la UE suspendió las reglas del Pacto de Estabilidad y Crecimiento y los gobiernos gastaron masivamente. En 2022-2023, con la inflación disparada y la crisis energética derivada de la guerra en Ucrania, Europa tuvo que reorientar presupuestos hacia subsidios energéticos y defensa, recortando sutilmente en áreas sociales como educación.
+
+**Central Asia (+0.61 pp en recovery) — El boom de las materias primas y reformas del Estado**
+
+Kazajistán, Uzbekistán y Turkmenistán se beneficiaron fuertemente del aumento de precios globales del petróleo, gas y minerales en 2022-2023. Sus economías no solo se recuperaron sino que crecieron con fuerza. Gobiernos como el de Uzbekistán y Kazajistán —con poblaciones muy jóvenes— utilizaron los excedentes para financiar planes de modernización educativa y digitalización que ya estaban planificados antes de la pandemia.
+
+**South Asia y East Asia & Pacific — Inversión estratégica de largo plazo**
+
+Estas regiones, lideradas por India, Indonesia y Vietnam, priorizan la educación como motor principal de su crecimiento industrial y atracción de inversión extranjera directa. El gasto se mantuvo alto en la fase de recuperación porque entienden la educación como infraestructura económica indispensable para mantener competitividad global.
