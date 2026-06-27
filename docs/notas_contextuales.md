@@ -115,3 +115,43 @@ Kazajistán, Uzbekistán y Turkmenistán se beneficiaron fuertemente del aumento
 **South Asia y East Asia & Pacific — Inversión estratégica de largo plazo**
 
 Estas regiones, lideradas por India, Indonesia y Vietnam, priorizan la educación como motor principal de su crecimiento industrial y atracción de inversión extranjera directa. El gasto se mantuvo alto en la fase de recuperación porque entienden la educación como infraestructura económica indispensable para mantener competitividad global.
+
+---
+
+## Análisis contextual del índice de recuperación — Casos extremos y divergentes
+
+La brecha global en el gasto educativo se profundizó tras la pandemia: mientras los países desarrollados recuperaron o superaron sus niveles de inversión de 2019, las naciones de ingresos bajos y en desarrollo enfrentaron severas contracciones presupuestarias debido a crisis de deuda, inflación y shocks climáticos. El gasto gubernamental promedio global se estancó en torno al 4% del PBI, y la asistencia internacional para educación cayó notablemente al redireccionarse fondos hacia crisis geopolíticas y de seguridad.
+
+---
+
+### Casos de reconfiguración radical
+
+**Vanuatu (índice 427) — Reconstrucción post-ciclones y ayuda externa**
+
+Democracia con alta vulnerabilidad climática, azotada constantemente por ciclones que destruyen infraestructura escolar. Fuerte dependencia de asistencia oficial al desarrollo (AOD) y préstamos externos, principalmente de China. Su riesgo de sobreendeudamiento está clasificado como alto por el FMI. El salto de 1.77% en 2019 a 10.64% en 2023 representa un esfuerzo estatal masivo enfocado en alfabetización temprana y reconstrucción escolar post-ciclones — no un crecimiento orgánico del sistema educativo.
+
+**Mauritania (índice 258) — Volatilidad extrema y posterior despegue**
+
+Transición política pacífica en un entorno regional inestable (Sahel). Economía primaria impulsada por minería (hierro, oro) e incipiente explotación de gas. Registró caídas críticas durante la pandemia, tocando un piso de apenas 1.39% del PBI en 2022, para luego rebotar agresivamente hasta 4.71% en 2023 mediante una reforma nacional para expandir cobertura de educación primaria y secundaria.
+
+---
+
+### Casos divergentes — Respuestas y crisis
+
+| País | Dinámica del gasto 2019-2023 |
+|------|------------------------------|
+| **Somalia** | Sistema en riesgo de colapso. Gasto doméstico casi inexistente; educación dependiente de flujos externos volátiles. El índice (142) es matemáticamente válido pero analíticamente irrelevante — el valor absoluto es cercano a cero en ambos períodos. |
+| **Bangladesh** | Gasto estructuralmente bajo (~2% del PBI), estancado a pesar del crecimiento industrial sostenido. Abre una brecha notable entre expansión económica y desarrollo humano. |
+| **Kazakhstan** | Gasto protegido institucionalmente por encima del 3-4% del PBI. Los excedentes del petróleo financiaron modernización digital y docente planificada antes de la pandemia. |
+| **Suriname** | Crisis fiscal obligó a recortar partidas reales, deprimiendo salarios docentes y deteriorando infraestructura escolar. Estabilización gradual bajo programas del FMI, pero el índice (42) refleja el daño acumulado. |
+| **Sierra Leone** | Implementó el programa Free Quality School Education (FQSE), subiendo la inversión a ~20% del presupuesto nacional durante el shock. Sin embargo, el índice de recovery (56) muestra que no sostuvo ese nivel — posiblemente por presión fiscal posterior o cambios en la metodología de reporte. |
+| **Noruega** | Gasto robusto y constante por encima del 6% del PBI. El índice bajo (69) responde a que el valor 2019 era excepcionalmente alto y el dato de recovery disponible es 2022, posiblemente parcial. No refleja deterioro real del sistema educativo. |
+| **Líbano** | Colapso macroeconómico histórico: devaluación de la moneda mayor al 95% e hiperinflación. Salarios docentes licuados, más de 1.1 millones de niños con educación interrumpida. El índice (59) refleja destrucción presupuestaria real. |
+
+---
+
+### Consideraciones clave para el análisis
+
+- **Efecto denominador:** En economías pequeñas (microestados del Pacífico, Macao SAR), los saltos abruptos en el porcentaje del PBI pueden reflejar tanto caídas severas del PBI total como inyecciones puntuales de ayuda externa concentrada. El índice de recuperación hereda este sesgo — un índice extremadamente alto no siempre significa mejor sistema educativo.
+- **Sostenibilidad fiscal:** La presión por el pago de deudas soberanas sigue siendo el principal obstáculo para que los países de bajos ingresos logren trayectorias estables de financiamiento educativo.
+- **Dato parcial vs. deterioro real:** Casos como Noruega, UK o Japón aparecen sin dato de recovery por lag de reporte, no por recorte. Cualquier comparación regional que los incluya debe contemplar esta ausencia.
