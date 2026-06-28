@@ -27,8 +27,7 @@ Reutilizado del pipeline del Proyecto 2 — `02_education_spending_clean.csv`
 | `03_evento.py` | Event study: baseline (2015-2019) vs shock (2020-2021) vs recovery (2022-2023) | ✅ Hecho |
 | `04_recuperacion.py` | Índice de recuperación por país y región (baseline: 2019) | ✅ Hecho |
 | `05_exportar.py` | Exportación a Excel — 8 hojas + merge-ready para Proyecto 4 | ✅ Hecho |
-| `06_visualizacion.py` | Serie temporal, heatmap, gráfico de recuperación | ⬜ Pendiente |
-
+| `06_visualizacion.py` | Serie temporal, heatmap, gráfico de recuperación | ✅ Hecho |
 ## Preguntas clave
 - ¿Cómo afectó la pandemia al gasto educativo global y por región?
 - ¿Qué países recortaron más el gasto en 2020–2021?

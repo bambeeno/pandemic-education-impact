@@ -26,8 +26,7 @@ Reused from Project 2 pipeline — `02_education_spending_clean.csv`
 | `03_evento.py` | Event study: baseline (2015-2019) vs shock (2020-2021) vs recovery (2022-2023) | ✅ Done |
 | `04_recuperacion.py` | Recovery index by country and region (baseline: 2019) | ✅ Done |
 | `05_exportar.py` | Excel export — 8 sheets + merge-ready for Project 4 | ✅ Done |
-| `06_visualizacion.py` | Time series, heatmap, recovery chart | ⬜ Pending |
-
+| `06_visualizacion.py` | Time series, heatmap, recovery chart | ✅ Done |
 ## Key Questions
 - How did the pandemic affect education spending globally and by region?
 - Which countries cut spending the most in 2020–2021?
